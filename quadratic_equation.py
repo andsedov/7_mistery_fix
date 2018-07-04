@@ -12,6 +12,3 @@ def get_roots(a, b, c):
             return root1, root2
     except ValueError:
         return None, None
-
-
-print(get_roots(2, 3, 1))
