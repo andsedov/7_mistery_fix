@@ -6,11 +6,9 @@
 
 Пример скрипта, который находит корни уравнения вида 2x^2 + 3x + 1 = 0
 
-```bash
+```python
 from quadratic_equation import get_roots
-get_roots(2, 3, 1) 
-
-(-1.0, -0.5)
+get_roots(2, 3, 1)
 ```
 
 # Как запустить
